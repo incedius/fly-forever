@@ -1,0 +1,9 @@
+{
+    "name": "fly-forever",
+    "update": "github:indecius/fly-forever",
+    "conflicts": ["fly-more"],
+    "title": "Fly Forever",
+    "authors": ["PinkiePie","Saegusa","Incedius"],
+    "description": "Removes P2W flight stamina restriction.",
+    "disableAutoUpdate": false
+}
